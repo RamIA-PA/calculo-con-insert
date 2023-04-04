@@ -1,0 +1,34 @@
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.AssemblyReference.cache
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2._2.Form1.resources
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2._2.Resources.resources
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.GenerateResource.cache
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.exe.config
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.exe
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.pdb
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.xml
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.exe
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.xml
+C:\Users\brian\source\repos\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.pdb
+D:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.exe.config
+D:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.exe
+D:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.xml
+D:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.pdb
+D:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbprojResolveAssemblyReference.cache
+D:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2._2.Form1.resources
+D:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2._2.Resources.resources
+D:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.GenerateResource.Cache
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.exe.config
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.exe
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.pdb
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\bin\Debug\ejercicio2.2.xml
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.AssemblyReference.cache
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.SuggestedBindingRedirects.cache
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2._2.Form1.resources
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2._2.Resources.resources
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.GenerateResource.cache
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.vbproj.CoreCompileInputs.cache
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.exe
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.xml
+E:\ejercicio 2 version 2\ejercicio2.2\ejercicio2.2\obj\Debug\ejercicio2.2.pdb

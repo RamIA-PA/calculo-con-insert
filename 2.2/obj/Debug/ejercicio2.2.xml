@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ejercicio2.2
+</name>
+</assembly>
+<members>
+<member name="T:ejercicio2._2.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ejercicio2._2.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ejercicio2._2.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.costofijoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.costovariableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.ordendepedidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.costofijoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.costovariableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.ordendepedidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.costofijoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.costovariableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet.ordendepedidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSetTableAdapters.costofijoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSetTableAdapters.costovariableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSetTableAdapters.ordendepedidosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ejercicio2._2.ejercicio2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ejercicio2._2.ejercicio2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ejercicio2._2.ejercicio2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSetTableAdapters.TableAdapterManager.UpdateAll(ejercicio2._2.ejercicio2DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.costofijoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.costovariableDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.ordendepedidosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.costofijoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.costovariableRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.ordendepedidosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.costofijoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.costovariableRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1.ordendepedidosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1TableAdapters.costofijoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1TableAdapters.costovariableTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1TableAdapters.ordendepedidosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ejercicio2._2.ejercicio2DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ejercicio2._2.ejercicio2DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ejercicio2._2.ejercicio2DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ejercicio2._2.ejercicio2DataSet1TableAdapters.TableAdapterManager.UpdateAll(ejercicio2._2.ejercicio2DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ejercicio2._2.ejercicio2DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
